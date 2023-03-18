@@ -1,0 +1,5 @@
+py-cord
+openai
+python-dotenv
+aiosqlite
+cpuid-native
